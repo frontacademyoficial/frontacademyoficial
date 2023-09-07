@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Nós somos a Front Academy! 👋
 
-<!--
-**frontacademyoficial/frontacademyoficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontacademyoficial&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=frontacademyoficial&layout=compact&langs_count=16&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.frontacademy.com.br/" target="_blank">
+    <img src="https://www.frontacademy.com.br/images/front-academy-logo.png" />
+  </a><br><br>
+</div>
+
+<div>  
+  <a href="https://www.instagram.com/frontacademy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/school/80120072" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
