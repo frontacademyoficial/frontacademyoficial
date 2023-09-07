@@ -1,5 +1,7 @@
 ### Olá! Nós somos a Front Academy! 👋
 
+Somos uma comunidade focada em desenvolvimento frontend, um lugar para aprender e evoluir na tecnologia. Nossa missão: formar os melhores frontends do Brasil
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontacademyoficial&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=frontacademyoficial&layout=compact&langs_count=16&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
